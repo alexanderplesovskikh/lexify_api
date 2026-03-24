@@ -33,10 +33,13 @@ Usage example:
 ```python
 from lexify_api import LexifyAPI, UploadOptions
 
+# Get your token
 api = LexifyAPI(admin_token="your_lexify_token")
 
+# Change to your file path
 input_file = "file.docx"
 
+# Change to your email
 user_token = api.get_user_token("user@example.com")
 
 options = UploadOptions(
