@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lexify_api"
+version = "0.1.0"
+description = "Python client for Lexify API"
+requires-python = ">=3.9"
+dependencies = ["requests"]
+
+[project.urls]
+Homepage = "https://github.com/alexanderplesovskikh/lexify_api"
