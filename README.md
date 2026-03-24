@@ -1,4 +1,4 @@
-# Lexify API
+# ✅ Lexify API
 
 Python SDK for interacting with the Lexify API.
 
