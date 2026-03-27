@@ -30,6 +30,8 @@ pip install git+https://github.com/alexanderplesovskikh/lexify_api.git
 
 Пример использования:
 
+_Для получения токена отправьте запрос на email: [lexiqo_app@mail.ru](mailto:lexiqo_app@mail.ru?subject=Запрос%20токена)_
+
 ```python
 from lexify_api import LexifyAPI, UploadOptions
 
