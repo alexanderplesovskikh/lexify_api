@@ -14,6 +14,7 @@ Python SDK для API Lexify.
 
 - 🌐 Веб-сайт: https://check.lexiqo.ru
 - 📦 Python Package: https://github.com/alexanderplesovskikh/lexify_api
+- 🧑‍🍳 Cookbook: https://github.com/alexanderplesovskikh/lexify_api/blob/main/Cookbook.md
 
 ---
 
@@ -83,6 +84,7 @@ It allows you to easily:
 
 - 🌐 Website: https://check.lexiqo.ru
 - 📦 Package: https://github.com/alexanderplesovskikh/lexify_api
+- 🧑‍🍳 Cookbook: https://github.com/alexanderplesovskikh/lexify_api/blob/main/Cookbook.md
 
 ---
 
